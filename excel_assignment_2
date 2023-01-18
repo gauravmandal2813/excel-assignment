@@ -1,0 +1,18 @@
+                                                                 ASSIGNMENT 2
+1. What does the dollar ($) sign do?
+Ans1: It instructs excel how to treat the reference when the formula is moved or copied to other cells
+2. How to Change the Reference from Relative to Absolute (or Mixed)?
+Ans2: Highlight the formula and press the F4 key to switch between an absolute and relative cell reference.
+3. Explain the order of operations in excel?
+Ans3: Parentheses, Exponents, Multiplication, Division, Addition, Subtraction
+4. What, according to you, are the top 5 functions in excel and write a basic syntax
+for any of two?
+Ans4: VLOOKUP Formula, Concatenate Formula, Text to Columns, Remove Duplicates, Pivot Tables
+5. When would you use the subtotal function?
+Ans5: The SUBTOTAL function is used when you display a Total row in an Excel Table
+6. What is the syntax of the VLOOKUP function? Explain the terms in it?
+Ans6: VLOOKUP (lookup_value, table_array, col_index_num,  [range_lookup])
+lookup_value: A value that LOOKUP searches for in an array
+table array: table arrays store column-oriented or tabular data, such as columns from a text file or spreadsheet.
+The col index_num is the column of data that contains the answer that you want
+range_lookup: A logical value that specifies whether you want VLOOKUP to find an approximate or an exact match
