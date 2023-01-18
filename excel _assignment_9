@@ -1,0 +1,11 @@
+                                                                     Assignment 9
+1. What are the different margins options and do we adjust the margins of the excel worksheet?
+To use predefined margins, click Normal, Wide, or Narrow. Tip: If you previously used a custom margin setting, that setting is available as the Last Custom Setting option. To specify custom page margins, click Custom Margins and then—in the Top, Bottom, Left, and Right boxes—enter the margin sizes that you want.
+2. Set a background for your table created.  
+The background color of the table is given by the bgcolor="color" attribute. When applied to the <table> tag, the color fills the background. Cell background colors are set by applying the bgcolor attribute to a <tr> tag (to color the row) or to a <td> tag (to color the cell).
+3. What is freeze panes and why do we use freeze panes? Give examples.
+To keep an area of a worksheet visible while you scroll to another area of the worksheet, go to the View tab, where you can Freeze Panes to lock specific rows and columns in place, or you can Split panes to create separate windows of the same worksheet.
+4. What are the different features available within the Freeze Panes command?
+The Freeze Panes command gives you more options on what should be frozen on the worksheet. Instead of a single row or a single column, you can freeze one or more rows at the top, as well as one or more columns at the left
+5. Explain what the different sheet options present in excel are and what they do?
+It allows us to organize vast amounts of data across multiple sheets. Every Excel workbook has at least one sheet. By default, when we create a new Excel file, it usually has three sheets, namely Sheet1, Sheet2, and Sheet3. Furthermore, we can add or delete the desired number of sheets accordingly.
