@@ -1,0 +1,26 @@
+                                                                        Assignment 1
+
+1)What do you mean by cells in an excel sheet?
+
+Answer: A cell is an essential part of MS-Excel. It is an object of Excel worksheets. Whenever We open Excel, the Excel worksheet contains cells to store the information in them. We can enter content and data into these cells. Cells are the building blocks of the Excel worksheet.
+
+2)How can you restrict someone from copying a cell from your worksheet?
+
+Answer: We will select Menu bar >Review > Protect sheet > Password.
+By entering password, we can restrict someone from copied by others
+
+3)How to move or copy the worksheet into another workbook?
+
+Answer: We can use the Move or Copy command to move or copy entire worksheets to other locations in the same or a different workbook. We can use the Cut and Copy commands to move or copy a portion of the data to other worksheets or workbooks
+
+4)Which key is used as a shortcut for opening a new window document?
+
+Answer: Ctrl+N
+
+5)What are the things that we can notice after opening the Excel interface?
+
+Answer: Title, Menu bar, Column headings, Row headings, Name box, Formula bar, Cell, Navigation buttons and sheet tabs.
+
+6)When to use a relative cell reference in excel?
+
+Answer: Whenever we need to repeat the same calculation across multiple rows or columns.
